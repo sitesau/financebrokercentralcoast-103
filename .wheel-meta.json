@@ -1,0 +1,22 @@
+{
+  "wheel_id": 99,
+  "slug": "financebrokercentralcoast-103",
+  "project": "refinancing-central-coast-buyer-tips-f-103",
+  "parent_t1_ref": "financebrokercentralcoast-002",
+  "node_role": "feeder",
+  "money_target": "financebrokercentralcoast.com.au",
+  "primary_kw": "refinancing central coast buyer tips",
+  "intended_url": "https://refinancing-central-coast-buyer-tips-f-103.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://refinancing-central-coast-f-150.pages.dev/",
+      "anchor": "refinancing central coast",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://refinancing-central-coast-f-150.pages.dev/",
+      "anchor": "refinancing central coast",
+      "rel": "follow"
+    }
+  ]
+}
