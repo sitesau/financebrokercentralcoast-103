@@ -6,7 +6,7 @@
   "node_role": "feeder",
   "money_target": "financebrokercentralcoast.com.au",
   "primary_kw": "refinancing central coast buyer tips",
-  "intended_url": "https://refinancing-central-coast-buyer-tips-f-103.surge.sh/",
+  "intended_url": "http://refinancing-central-coast-buyer-tips-f-103.s3-website-ap-southeast-2.amazonaws.com/index.html",
   "links": [
     {
       "target_url": "https://refinancing-central-coast-f-150.pages.dev/",
@@ -18,5 +18,6 @@
       "anchor": "refinancing central coast",
       "rel": "follow"
     }
-  ]
+  ],
+  "structure": "wheel"
 }

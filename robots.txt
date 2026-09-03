@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://refinancing-central-coast-buyer-tips-f-103.surge.sh/sitemap.xml
+Sitemap: http://refinancing-central-coast-buyer-tips-f-103.s3-website-ap-southeast-2.amazonaws.com/sitemap.xml
